@@ -32,7 +32,7 @@ class SplashScreenActivity : AppCompatActivity() {
 
         // Keep the splash brief so launch feels responsive.
         Handler(Looper.getMainLooper()).postDelayed({
-            val intent = Intent(this, HomeActivity::class.java)
+            val intent = Intent(this, LoginActivity::class.java)
             startActivity(intent)
             finish()
         }, 1800)

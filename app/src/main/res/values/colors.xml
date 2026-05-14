@@ -7,4 +7,17 @@
     <color name="splash_ring_inner">#FFFFFF</color>
     <color name="splash_loader">#F1A000</color>
     <color name="splash_version">#AEB3B8</color>
+
+    <!-- Login Screen Colors -->
+    <color name="login_background">#FFFFFF</color>
+    <color name="login_title_dark">#1A1A2E</color>
+    <color name="login_subtitle_gray">#9E9E9E</color>
+    <color name="login_input_bg">#EEF4FF</color>
+    <color name="login_icon_circle_bg">#D0E8FF</color>
+    <color name="login_icon_tint">#1976D2</color>
+    <color name="login_hint_gray">#BDBDBD</color>
+    <color name="login_button_start">#1565C0</color>
+    <color name="login_button_end">#42A5F5</color>
+    <color name="login_forgot_color">#424242</color>
+    <color name="login_text_input_color">#1A1A2E</color>
 </resources>
