@@ -2,4 +2,9 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="splash_background">#FFFFFF</color>
+    <color name="splash_ring_outer">#FFFFFF</color>
+    <color name="splash_ring_inner">#FFFFFF</color>
+    <color name="splash_loader">#F1A000</color>
+    <color name="splash_version">#AEB3B8</color>
 </resources>
