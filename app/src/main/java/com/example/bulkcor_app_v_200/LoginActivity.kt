@@ -1,5 +1,6 @@
 package com.example.bulkcor_app_v_200
 
+import android.content.Intent
 import android.os.Bundle
 import android.view.View
 import android.view.WindowManager
@@ -44,8 +45,9 @@ class LoginActivity : AppCompatActivity() {
                 etPassword.requestFocus()
                 return@setOnClickListener
             }
-            // TODO: implement authentication logic
-            Toast.makeText(this, "Signing in…", Toast.LENGTH_SHORT).show()
+            Toast.makeText(this, "Signing in...", Toast.LENGTH_SHORT).show()
+            startActivity(Intent(this, HomeActivity::class.java))
+            finish()
         }
 
         tvForgotPassword.setOnClickListener {

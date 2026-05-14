@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- Soft blue shadow pushed slightly down -->
+    <item
+        android:left="1dp"
+        android:top="4dp"
+        android:right="1dp">
+        <shape android:shape="oval">
+            <solid android:color="@color/login_icon_shadow_blue" />
+        </shape>
+    </item>
+
+    <!-- Main icon circle -->
+    <item android:bottom="4dp">
+        <shape android:shape="oval">
+            <solid android:color="@color/login_icon_circle_bg" />
+        </shape>
+    </item>
+
+</layer-list>
+
