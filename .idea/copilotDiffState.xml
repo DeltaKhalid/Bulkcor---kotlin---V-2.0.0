@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CopilotDiffPersistence">
+    <option name="pendingDiffs">
+      <map>
+        <entry key="$PROJECT_DIR$/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml">
+          <value>
+            <PendingDiffInfo>
+              <option name="filePath" value="$PROJECT_DIR$/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" />
+              <option name="originalContent" value="&lt;!--&#10;  ~ Copyright (C) 2026 The Android Open Source Project&#10;  ~&#10;  ~ Licensed under the Apache License, Version 2.0 (the &quot;License&quot;);&#10;  ~ you may not use this file except in compliance with the License.&#10;  ~ You may obtain a copy of the License at&#10;  ~&#10;  ~      http://www.apache.org/licenses/LICENSE-2.0&#10;  ~&#10;  ~ Unless required by applicable law or agreed to in writing, software&#10;  ~ distributed under the License is distributed on an &quot;AS IS&quot; BASIS,&#10;  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.&#10;  ~ See the License for the specific language governing permissions and&#10;  ~ limitations under the License.&#10;  --&gt;&#10;&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-8&quot;?&gt;&#10;&lt;adaptive-icon xmlns:android=&quot;http://schemas.android.com/apk/res/android&quot;&gt;&#10;    &lt;background android:drawable=&quot;@color/ic_launcher_background&quot;/&gt;&#10;    &lt;foreground android:drawable=&quot;@mipmap/ic_launcher_foreground&quot;/&gt;&#10;    &lt;monochrome android:drawable=&quot;@mipmap/ic_launcher_foreground&quot;/&gt;&#10;&lt;/adaptive-icon&gt;" />
+              <option name="updatedContent" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-8&quot;?&gt;&#10;&lt;adaptive-icon xmlns:android=&quot;http://schemas.android.com/apk/res/android&quot;&gt;&#10;    &lt;background android:drawable=&quot;@color/ic_launcher_background&quot;/&gt;&#10;    &lt;foreground android:drawable=&quot;@mipmap/ic_launcher_foreground&quot;/&gt;&#10;    &lt;monochrome android:drawable=&quot;@mipmap/ic_launcher_foreground&quot;/&gt;&#10;&lt;/adaptive-icon&gt;" />
+            </PendingDiffInfo>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml">
+          <value>
+            <PendingDiffInfo>
+              <option name="filePath" value="$PROJECT_DIR$/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" />
+              <option name="originalContent" value="&lt;!--&#10;  ~ Copyright (C) 2026 The Android Open Source Project&#10;  ~&#10;  ~ Licensed under the Apache License, Version 2.0 (the &quot;License&quot;);&#10;  ~ you may not use this file except in compliance with the License.&#10;  ~ You may obtain a copy of the License at&#10;  ~&#10;  ~      http://www.apache.org/licenses/LICENSE-2.0&#10;  ~&#10;  ~ Unless required by applicable law or agreed to in writing, software&#10;  ~ distributed under the License is distributed on an &quot;AS IS&quot; BASIS,&#10;  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.&#10;  ~ See the License for the specific language governing permissions and&#10;  ~ limitations under the License.&#10;  --&gt;&#10;&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-8&quot;?&gt;&#10;&lt;adaptive-icon xmlns:android=&quot;http://schemas.android.com/apk/res/android&quot;&gt;&#10;    &lt;background android:drawable=&quot;@color/ic_launcher_background&quot;/&gt;&#10;    &lt;foreground android:drawable=&quot;@mipmap/ic_launcher_foreground&quot;/&gt;&#10;    &lt;monochrome android:drawable=&quot;@mipmap/ic_launcher_foreground&quot;/&gt;&#10;&lt;/adaptive-icon&gt;" />
+              <option name="updatedContent" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-8&quot;?&gt;&#10;&lt;adaptive-icon xmlns:android=&quot;http://schemas.android.com/apk/res/android&quot;&gt;&#10;    &lt;background android:drawable=&quot;@color/ic_launcher_background&quot;/&gt;&#10;    &lt;foreground android:drawable=&quot;@mipmap/ic_launcher_foreground&quot;/&gt;&#10;    &lt;monochrome android:drawable=&quot;@mipmap/ic_launcher_foreground&quot;/&gt;&#10;&lt;/adaptive-icon&gt;" />
+            </PendingDiffInfo>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/values/ic_launcher_background.xml">
+          <value>
+            <PendingDiffInfo>
+              <option name="filePath" value="$PROJECT_DIR$/app/src/main/res/values/ic_launcher_background.xml" />
+              <option name="originalContent" value="&lt;!--&#10;  ~ Copyright (C) 2026 The Android Open Source Project&#10;  ~&#10;  ~ Licensed under the Apache License, Version 2.0 (the &quot;License&quot;);&#10;  ~ you may not use this file except in compliance with the License.&#10;  ~ You may obtain a copy of the License at&#10;  ~&#10;  ~      http://www.apache.org/licenses/LICENSE-2.0&#10;  ~&#10;  ~ Unless required by applicable law or agreed to in writing, software&#10;  ~ distributed under the License is distributed on an &quot;AS IS&quot; BASIS,&#10;  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.&#10;  ~ See the License for the specific language governing permissions and&#10;  ~ limitations under the License.&#10;  --&gt;&#10;&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-8&quot;?&gt;&#10;&lt;resources&gt;&#10;    &lt;color name=&quot;ic_launcher_background&quot;&gt;#FFFFFF&lt;/color&gt;&#10;&lt;/resources&gt;" />
+              <option name="updatedContent" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-8&quot;?&gt;&#10;&lt;resources&gt;&#10;    &lt;color name=&quot;ic_launcher_background&quot;&gt;#FFFFFF&lt;/color&gt;&#10;&lt;/resources&gt;" />
+            </PendingDiffInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
