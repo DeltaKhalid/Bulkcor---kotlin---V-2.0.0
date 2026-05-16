@@ -9,4 +9,7 @@
     <string name="login_sign_in">Sign In</string>
     <string name="dashboard_menu_icon_desc">Dashboard menu icon</string>
     <string name="dashboard_exit_desc">Exit dashboard</string>
+    <string name="profile_name">Apps Admin</string>
+    <string name="profile_date">May 16, 2026 \u2022 10:47 AM</string>
+    <string name="profile_image_desc">Profile image</string>
 </resources>
