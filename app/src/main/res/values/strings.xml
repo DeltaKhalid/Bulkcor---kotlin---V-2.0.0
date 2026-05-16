@@ -12,4 +12,9 @@
     <string name="profile_name">Apps Admin</string>
     <string name="profile_date">May 16, 2026 \u2022 10:47 AM</string>
     <string name="profile_image_desc">Profile image</string>
+    <string name="home_desc">Home icon</string>
+    <string name="customer_list_desc">Customer list icon</string>
+    <string name="order_placement_desc">Order placement icon</string>
+    <string name="password_change_desc">Password change icon</string>
+    <string name="logout_desc">Logout icon</string>
 </resources>

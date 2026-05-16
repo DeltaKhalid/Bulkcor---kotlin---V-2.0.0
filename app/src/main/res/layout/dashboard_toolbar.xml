@@ -20,10 +20,13 @@
         android:paddingEnd="10dp">
 
         <ImageView
+            android:id="@+id/ivMenu"
             android:layout_width="22dp"
             android:layout_height="22dp"
             android:contentDescription="@string/dashboard_menu_icon_desc"
             android:src="@android:drawable/ic_dialog_dialer"
+            android:clickable="true"
+            android:focusable="true"
             app:tint="@android:color/white" />
 
         <TextView
