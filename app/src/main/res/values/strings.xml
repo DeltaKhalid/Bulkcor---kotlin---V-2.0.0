@@ -17,4 +17,12 @@
     <string name="order_placement_desc">Order placement icon</string>
     <string name="password_change_desc">Password change icon</string>
     <string name="logout_desc">Logout icon</string>
+    <string name="menu_order">Order</string>
+    <string name="menu_pre_order">Pre Order</string>
+    <string name="menu_collection">Collection</string>
+    <string name="menu_sales_return">Sales Return</string>
+    <string name="order_icon_desc">Order icon</string>
+    <string name="preorder_icon_desc">Pre Order icon</string>
+    <string name="collection_icon_desc">Collection icon</string>
+    <string name="salesreturn_icon_desc">Sales Return icon</string>
 </resources>
