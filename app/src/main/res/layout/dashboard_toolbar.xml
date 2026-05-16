@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.Toolbar xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/dashboardToolbar"
+    android:layout_width="match_parent"
+    android:layout_height="50dp"
+    android:background="@drawable/bg_dashboard_toolbar"
+    android:paddingTop="0dp"
+    android:paddingBottom="0dp"
+    app:contentInsetStartWithNavigation="0dp"
+    app:contentInsetStart="0dp"
+    app:contentInsetEnd="0dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center_vertical"
+        android:orientation="horizontal"
+        android:paddingStart="10dp"
+        android:paddingEnd="10dp">
+
+        <ImageView
+            android:layout_width="22dp"
+            android:layout_height="22dp"
+            android:contentDescription="@string/dashboard_menu_icon_desc"
+            android:src="@android:drawable/ic_dialog_dialer"
+            app:tint="@android:color/white" />
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="12dp"
+            android:layout_weight="1"
+            android:ellipsize="end"
+            android:maxLines="1"
+            android:text="@string/login_company_name"
+            android:textColor="@android:color/white"
+            android:textSize="22sp" />
+
+        <ImageButton
+            android:id="@+id/btnToolbarExit"
+            android:layout_width="36dp"
+            android:layout_height="36dp"
+            android:background="@android:color/transparent"
+            android:contentDescription="@string/dashboard_exit_desc"
+            android:padding="6dp"
+            android:src="@android:drawable/ic_lock_power_off"
+            app:tint="@android:color/white" />
+
+    </LinearLayout>
+
+</androidx.appcompat.widget.Toolbar>

@@ -46,7 +46,7 @@ class LoginActivity : AppCompatActivity() {
                 return@setOnClickListener
             }
             Toast.makeText(this, "Signing in...", Toast.LENGTH_SHORT).show()
-            startActivity(Intent(this, HomeActivity::class.java))
+            startActivity(Intent(this, DashBoard::class.java))
             finish()
         }
 

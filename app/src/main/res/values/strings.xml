@@ -7,4 +7,6 @@
     <string name="login_hint_password">Password</string>
     <string name="login_forgot_password">Forgot password?</string>
     <string name="login_sign_in">Sign In</string>
+    <string name="dashboard_menu_icon_desc">Dashboard menu icon</string>
+    <string name="dashboard_exit_desc">Exit dashboard</string>
 </resources>
